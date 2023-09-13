@@ -1,2 +1,2 @@
 # RiceClassification
-The "Rice Type Classification" dataset has been created for educational purposes and binary classification practice. 
+The "Rice Type Classification" dataset was developed for training in binary classification and educational purposes. It comprises numerical characteristics of rice grains, such as area, length, roundness, and more. To distinguish between "Jasmine" (represented as "1") and "Gonen" (represented as "0"), the dataset is intended for binary classification. In order to learn about binary classification and provide accurate classification results, it is meant to serve as a useful and instructive resource.

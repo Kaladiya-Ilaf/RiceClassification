@@ -4,3 +4,8 @@ The "Rice Type Classification" dataset was developed for training in binary clas
 ### Front end 
 
 ![image](https://github.com/Kaladiya-Ilaf/RiceClassification/assets/66785403/3a048856-3124-42da-b56d-450d9cda9081)
+
+##### Result of classification of rice:
+
+![image](https://github.com/Kaladiya-Ilaf/RiceClassification/assets/66785403/a8c4aed3-10e8-4183-b6a9-dc4c404c50cb)
+
